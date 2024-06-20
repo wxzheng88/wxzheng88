@@ -1,1 +1,1 @@
-I'm learning python
+I'm learning python and AI
